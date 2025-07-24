@@ -1,4 +1,4 @@
-##**Part 6: Creative Problem-Solving Assessment**
+## **Part 6: Creative Problem-Solving Assessment**
 
 <ins>Question</ins>: You are tasked with testing a vending machine that dispenses drinks. Imagine you cannot open the machine, interact with its internal components, or access any software logs.
 
