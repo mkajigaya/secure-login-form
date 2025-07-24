@@ -5,13 +5,13 @@
 
 ## **A Brief Overview**
 - Tested a new Login feature of a secure application.
-- Testing included functional, UI, non-functional, and crossbrowser testing. 
+- Testing included functional, UI, non-functional, and cross-browser testing. 
 - The feature was tested manually using a Windows laptop (Home 11), across Chrome and Firefox browsers.
 - One positive test scenario was automated using Playwright and TypeScript.
 
 
 ## **Challenges** 
-I challenged myself to be through with testing as much as possible while being mindful about the time spent. I worked in short focused time blocks, avoided dwelling on an area for too long, and aimed to finish each part within the recommended timeframe. I will continue polishing my skills so I can deliver high-quality projects quickly. 
+I challenged myself to be thorough with testing as much as possible while being mindful about the time spent. I worked in short focused time blocks, avoided dwelling on an area for too long, and aimed to finish each part within the recommended timeframe. I will continue polishing my skills so I can deliver high-quality projects quickly. 
 
 
 ## **Estimated Time Spent**
