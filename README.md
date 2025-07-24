@@ -1,9 +1,9 @@
-#**Project Summary & Reflection** 
+#Project Summary & Reflection 
 
-###**Name:** Megumi Kajigaya
+###Name: Megumi Kajigaya
 
 
-##**A Brief Overview**
+##A Brief Overview
 - Tested a new Login feature of a secure application.
 - Testing included functional, UI, non-functional, and crossbrowser testing. 
 - The feature was tested manually using a Windows laptop (Home 11), across Chrome and Firefox browsers.
