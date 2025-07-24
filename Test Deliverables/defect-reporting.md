@@ -1,7 +1,7 @@
-## **Part 4: Defect Reporting**
+# **Part 4: Defect Reporting**
 
 
-**Title:** Zoom Testing (Login page) - When the user enlarges the text on the Login page, the Fork me on the GitHub banner and the web page text overlaps.
+### Title: Zoom Testing (Login page) - When the user enlarges the text on the Login page, the Fork me on the GitHub banner and the web page text overlaps.
 
 **Test Case ID:** #5
 
@@ -29,14 +29,14 @@ When the user enlarges the text on the Login page to 200%, the web page text and
 
 **Submit Date:** 07/22/2025
 
-**Environment**
+### **Environment**
 
-<ins>URL</ins>: http://the-internet.herokuapp.com/login
+**URL:** http://the-internet.herokuapp.com/login
 
-<ins>Device</ins>: HP Pavilion Laptop
+**Device:** HP Pavilion Laptop
 
-<ins>Operating System</ins>: Windows 11 Home
+**Operating System:** Windows 11 Home
 
-<ins>Browsers</ins>: Chrome, Firefox
+**Browsers:** Chrome, Firefox
 
 

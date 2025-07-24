@@ -1,9 +1,9 @@
-## **Part 2: Manual Testing**
+# **Part 2: Manual Testing**
 
 
-### **Exploratory Testing Notes**
+## **Exploratory Testing Notes**
 
-<ins>Login Page</ins>
+### Login Page
 
 - When zoomed to 200%, the page text overlaps with the “Fork me on GitHub” banner, making it difficult to read (in Firefox and Chrome browsers).
 
@@ -12,14 +12,14 @@
 - The color and text of the Login button is not visible in Chrome browser. When the cursor is hovered over the button, the color and text becomes visible. This issue can cause confusion during the login process.
 
 
-<ins>Secure Area Page</ins>
+### Secure Area Page
 
 - When zoomed to 110% or higher, a part of the login success message overlaps with the “Fork me on GitHub” banner. Because of the overlap, I am taken to the GitHub page when I click on the x button of the message (in Firefox and Chrome browswers). This issue can make website naveigation more difficult for the users who needs to enlarge the text.
 
 
-### **Manual Test Cases**
+## **Manual Test Cases**
 
-**Test Case ID:** #1
+### **Test Case ID:** #1
 
 **Scenario:** The user successfully logs into the secure area.
 
@@ -45,7 +45,7 @@
 
 
 
-**Test Case ID:** #2
+### **Test Case ID:** #2
 
 **Test Scenario:** The user enters an invalid username.
 
@@ -71,7 +71,7 @@
 
 
 
-**Test Case ID:** #3
+### **Test Case ID:** #3
 
 **Test Scenario:** The user enters an invalid password.
 
@@ -87,7 +87,7 @@
 
 <ins>Device</ins> - Windows desktop (Home 11).
 
-**Test Data** tomsmith (Username), 12345 (Password)
+**Test Data:** tomsmith (Username), 12345 (Password)
 
 **Expected Results:** When the user enters an invalid password and clicks the Login button, the screen remains in the Login page, displaying a red login error message at the top (“Your password is invalid!”).
 
@@ -97,7 +97,7 @@
 
 
 
-**Test Case ID:** #4
+### **Test Case ID:** #4
 
 **Test Scenario:** The user successfully logs out of the secured area.
 
@@ -122,7 +122,7 @@
 
 
 
-**Test Case ID:** #5
+### **Test Case ID:** #5
 
 **Test Scenario:** When the user enlarges the text on the Login page, all the text remains readable.
 

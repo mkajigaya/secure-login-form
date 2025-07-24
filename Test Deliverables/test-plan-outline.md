@@ -1,12 +1,12 @@
-## Part 1: Test Plan Outline
+# Part 1: Test Plan Outline
 
 <ins>Objective</ins>
 
 The objective of this project was to test a new Login feature of a secure application.
 
 
-### **Explore Testing Scope**
-<ins>UI and Functional Testing</ins>
+## **Explore Testing Scope**
+### UI and Functional Testing:
 
 Username Field
 - The field appearance
@@ -52,7 +52,7 @@ Logout Button
 - The Success message can be dismissed by clicking the x
 - When I click the button, I am taken back to the Login page
 
-<ins>Non-Functional Testing</ins>
+### Non-Functional Testing
 
 Cross-browser
 - Chrome, Firefox
@@ -63,12 +63,12 @@ Zooming
 Accessibility
 - The page can be navigated using the keyboard
 
-<ins>Device</ins>
+### Device
 
 - Windows laptop was used for this tesing project
 
 
-### **Testing Approach**
+## **Testing Approach**
 - The prject involved manual explore testing of the login feature. 
 - The Testing types included Functional, UI, crossbrowser, zoom, and accessibility testing. 
 - A windows laptop (Home 11) was used as a testing device, and the feature was tested across Chrome and Firefox browsers.

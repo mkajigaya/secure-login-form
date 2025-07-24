@@ -1,6 +1,6 @@
 # **Project Summary & Reflection** 
 
-### **Name:** Megumi Kajigaya
+**Name:** Megumi Kajigaya
 
 
 ## **A Brief Overview**
